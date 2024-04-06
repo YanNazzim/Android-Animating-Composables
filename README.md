@@ -25,4 +25,4 @@ What things you need to install and set up the project:
 #### Clone the Repository
 
 ```bash
-gh repo clone YanNazzim/Android-Defining-Themes-and-Resources
+gh repo clone YanNazzim/Android-Animating-Composables
